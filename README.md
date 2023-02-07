@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RealVishy
-- 👀 I’m interested in becoming a software engineer after University
-- 🌱 I’m currently learning Business Studies, Maths Advanced, English Advanced, Physics and Engineering Studies (Year 12)
+- 👀 I love cyberseurity and building websites
+- 🌱 I’m currently studying a degree in Software Engineering at UTS
 - 💞️ I’m looking to collaborate on Discord 
-- 📫 How to reach me: NightKnight#6215(Discord)
+- 📫 How to reach me: RealDishwash#6215(Discord)
 
 <!---
 RealVishy/RealVishy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
