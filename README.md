@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RealVishy
-- 👀 I love Linux, OSS and and KDE!
+- 👀 I love Linux, OSS and KDE!
 - 🌱 I’m currently studying a degree in Software Engineering at UTS
 - 💞️ Feel free to message me about any of the above topics 
 - 📫 How to reach me: realdishwash(Discord)
